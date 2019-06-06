@@ -4,7 +4,7 @@
 
 安装时请勾选"Add Python 3.7 to PATH"
 
-![](https://raw.githubusercontent.com/xj107359/VideoDown/Picutres/AddPyToPath.png)
+![](https://raw.githubusercontent.com/xj107359/VideoDown/master/Picutres/AddPyToPath.png)
 
 ## 安装依赖包
 
